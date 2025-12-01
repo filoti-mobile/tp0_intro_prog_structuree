@@ -11,7 +11,7 @@ void main() {
     int c = scanner.nextInt();
 
     double max = Math.max(Math.max(a, b), c);
-    print("La valeur maximale est " + max);
+    println("La valeur maximale est " + max);
 
 
 
